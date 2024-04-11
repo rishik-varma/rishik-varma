@@ -12,9 +12,7 @@
 - Ask me about **Java, C++, Spring Boot, Competitive Programming**
 
 - 📫 How to reach me **rishikvarma1909@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1o4_87DypvwZB1_k9HIEXNq-ts9_D3npW/view?usp=sharing](https://drive.google.com/file/d/1o4_87DypvwZB1_k9HIEXNq-ts9_D3npW/view?usp=sharing)
-
+  
 - ⚡ Fun fact **I like to visit museums and historical sites**
 
 <h3 align="left">Connect with me:</h3>
