@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Golang, Django, Microservices**
 
-- 💬 I’m currently working on **integrating various e-commerce marketplaces and shipping carriers with Anchanto's Order Management System (Selluseller) and Warehouse Management System (Wareo) respectively**
-
 - 👨‍💻 All of my projects are available at [https://github.com/rishik-varma](https://github.com/rishik-varma)
 
 - Ask me about **Java, C++, Spring Boot, Competitive Programming**
