@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishik Varma</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working as **Software Development Engineer, at Anchanto Services Pvt. Ltd.**
+- 🔭 I’m currently working as **Software Engineer II, at Intuit.**
 
 - 🌱 I’m currently learning **Golang, Django, Microservices**
 
