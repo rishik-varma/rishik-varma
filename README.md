@@ -3,11 +3,13 @@
 
 - 🔭 I’m currently working as **Software Engineer II, at Intuit.**
 
+-  💬 I’m currently working on **QuickBooks**
+  
 - 🌱 I’m currently learning **Golang, Django, Microservices**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rishik-varma](https://github.com/rishik-varma)
 
-- Ask me about **Java, C++, Spring Boot, Competitive Programming**
+- Ask me about **Gen AI, LLM, AI, Java, C++, Spring Boot, ReacCompetitive Programming**
 
 - 📫 How to reach me **rishikvarma1909@gmail.com**
   
