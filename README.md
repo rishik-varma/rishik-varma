@@ -1,31 +1,102 @@
-<h1 align="center">Hi 👋, I'm Rishik Varma</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<div align="center">
 
-- 🔭 I’m currently working as **Software Engineer II, at Intuit.**
+<h1>Hi 👋, I'm Rishik Varma</h1>
 
--  💬 I’m currently working on **QuickBooks**
-  
-- 🌱 I’m currently learning **Golang, Django, Microservices**
+<h3>Backend Engineer · Agentic AI Engineer · Problem Solver</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/rishik-varma](https://github.com/rishik-varma)
-
-- Ask me about **Gen AI, LLM, AI, Java, C++, Spring Boot, ReacCompetitive Programming**
-
-- 📫 How to reach me **rishikvarma1909@gmail.com**
-  
-- ⚡ Fun fact **I like to visit museums and historical sites**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rishik-varma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishik-varma" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pqr_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pqr_123" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rishikvarma1909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishikvarma1909" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pqr_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pqr_123" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@rishikvarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rishikvarma" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rishikvarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rishikvarma" height="30" width="40" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/rishik-varma"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rishikvarma1909@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=rishik-varma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishik-varma&show_icons=true&locale=en&layout=compact" alt="rishik-varma" /></p>
+</div>
+
+---
+
+## 👨‍💻 About me
+
+- 💼 Former **Software Engineer 2 at Intuit** with **4+ years** of experience building production backend and AI systems.
+- 🚀 Shipped multi-tier applications and AI workflows serving **100K beta customers**.
+- ⚡ Reduced a Java/Spring workflow from **7.8 days to under 1 hour** using concurrency and distributed processing.
+- 🤖 Built production systems using **Agentic AI, LangGraph, MCP, RAG, LLM evaluations, and observability**.
+- 🧱 Strong in **Java, Python, Spring Boot, distributed backend applications, system design, and performance optimization**.
+- 🤝 Mentored junior engineers through code reviews, design discussions, and knowledge-sharing sessions.
+- 🎯 Open to **SDE II / Senior Software Engineer** roles in Backend, Platform, and Agentic AI engineering.
+- ⚡ Fun fact: I enjoy visiting museums and historical places.
+
+## 🛠️ Languages and tools
+
+### Backend and programming
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,ts,nodejs,fastapi&theme=light" alt="Backend and programming technologies" />
+</p>
+
+- **Languages:** Java, Python, C++, TypeScript, SQL and Groovy
+- **Frameworks:** Spring Boot, FastAPI, Node.js, React and GraphQL
+- **Core strengths:** Object-oriented design, data structures, algorithms, system design and multithreading
+
+### Databases, messaging and cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,aws,docker&theme=light" alt="Databases, messaging and cloud technologies" />
+</p>
+
+- **Data stores:** PostgreSQL, MySQL, Microsoft SQL Server, MongoDB and Redis
+- **Distributed systems:** Kafka, asynchronous processing, caching, retries, timeouts and failure isolation
+- **Cloud and deployment:** AWS, Docker, Jenkins and CI/CD pipelines
+
+### Engineering tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,jenkins,linux,idea,vscode&theme=light" alt="Engineering tools" />
+</p>
+
+- **Quality:** Unit and integration testing, 85%+ coverage, code reviews and design documentation
+- **Operations:** Splunk, Gatling, PagerDuty, dashboards, alerting and incident response
+
+### 🤖 Agentic AI
+
+- **Orchestration:** LangGraph, LangChain and production agent workflows
+- **Retrieval and tools:** RAG, MCP servers and tool integration
+- **Evaluation and observability:** LLM evaluations, Langfuse, OpenAI and Claude
+
+### ⚙️ Backend engineering
+
+- **Architecture:** REST APIs, GraphQL, microservices and multi-tier backend applications
+- **Performance:** Concurrency, caching, database optimization and performance testing
+- **Reliability:** Bounded retries, timeouts, monitoring, observability and production support
+
+## 🏆 Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ACM--ICPC-2020%20Regionalist-7B1FA2?style=for-the-badge" alt="ACM-ICPC Regionalist" />
+  <img src="https://img.shields.io/badge/CodeChef-5★-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 5 Star" />
+  <img src="https://img.shields.io/badge/Jadavpur%20University-B.E.%20IT-00695C?style=for-the-badge" alt="Jadavpur University" />
+</p>
+
+- **ACM-ICPC 2020 Regionalist** — Rank 264, Amritapuri Regional
+- **5-star CodeChef** — 1800+ rating
+- **B.E. in Information Technology**, Jadavpur University — CGPA 8.9/10
+
+## 🤝 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/rishik-varma" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/pqr_123" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/rishikvarma1909" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/pqr_123" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://www.hackerearth.com/@rishikvarma" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/rishikvarma" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
+</p>
+
+---
+
+<div align="center">
+  <b>Let's build reliable systems that scale.</b>
+  <br /><br />
+  <a href="mailto:rishikvarma1909@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/rishik-varma">LinkedIn</a>
+</div>
